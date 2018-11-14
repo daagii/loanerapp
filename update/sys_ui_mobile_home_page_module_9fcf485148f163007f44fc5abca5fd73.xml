@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_home_page_module">
+    <sys_ui_mobile_home_page_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>#ff6600</background_color>
+        <content_style>light_content</content_style>
+        <icon>mobile</icon>
+        <image/>
+        <module display_value="Loaner Requests">7fce444148fd23007f44fc5abca5fdaf</module>
+        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
+        <subtitle>Loaner Requests</subtitle>
+        <sys_class_name>sys_ui_mobile_home_page_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 16:49:14</sys_created_on>
+        <sys_id>9fcf485148f163007f44fc5abca5fd73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bf2a9ff048bd23007f44fc5abca5fd7c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bf2a9ff048bd23007f44fc5abca5fd7c</sys_scope>
+        <sys_update_name>sys_ui_mobile_home_page_module_9fcf485148f163007f44fc5abca5fd73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 16:49:14</sys_updated_on>
+        <title>Loaner Requests</title>
+    </sys_ui_mobile_home_page_module>
+</record_update>
