@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Loaner Laptop">ac53742d48f563007f44fc5abca5fddb</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>b6947c2d48f563007f44fc5abca5fdba</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bf2a9ff048bd23007f44fc5abca5fd7c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bf2a9ff048bd23007f44fc5abca5fd7c</sys_scope>
+        <sys_update_name>sys_hub_action_instance_b6947c2d48f563007f44fc5abca5fdba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:57:27</sys_updated_on>
+        <ui_id>c6d8315c-f888-427c-9489-e7dc06c4cbf7</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=b6947c2d48f563007f44fc5abca5fdba"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>b6947c2d48f563007f44fc5abca5fdba</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>32947c2d48f563007f44fc5abca5fdcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:06:45</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">c7f92c160b10030085c083eb37673a49</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>b6947c2d48f563007f44fc5abca5fdba</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:16:52</sys_created_on>
+        <sys_id>bae6786d48f563007f44fc5abca5fde4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:16:52</sys_updated_on>
+        <value>x_cdltd_loaner_req_loaner_request</value>
+        <variable display_value="">1ff92c160b10030085c083eb37673a81</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>b6947c2d48f563007f44fc5abca5fdba</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>f2947c2d48f563007f44fc5abca5fdcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:06:45</sys_updated_on>
+        <value>x_cdltd_loaner_req_loaner_request</value>
+        <variable display_value="">36f9a8160b10030085c083eb37673af3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>b6947c2d48f563007f44fc5abca5fdba</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:16:52</sys_created_on>
+        <sys_id>f6e6786d48f563007f44fc5abca5fde4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:16:52</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">5ff92c160b10030085c083eb37673ac1</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=b6947c2d48f563007f44fc5abca5fdba"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>3a947c2d48f563007f44fc5abca5fdcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:06:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:16:52</sys_created_on>
+        <sys_id>fee6786d48f563007f44fc5abca5fde3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:16:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:16:52</sys_created_on>
+        <sys_id>76e6786d48f563007f44fc5abca5fde4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:16:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>be947c2d48f563007f44fc5abca5fdcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:06:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:16:52</sys_created_on>
+        <sys_id>b2e6786d48f563007f44fc5abca5fde4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:16:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>b6947c2d48f563007f44fc5abca5fdba</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:06:45</sys_created_on>
+        <sys_id>fa947c2d48f563007f44fc5abca5fdcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:06:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

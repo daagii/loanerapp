@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Basic flow for assigning work on a loaner laptop.</description>
+        <internal_name>loaner_laptop</internal_name>
+        <label_cache>[{"name":"e8dc3b5a-f83d-40cc-8784-8877c340b1ae.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"e8dc3b5a-f83d-40cc-8784-8877c340b1ae.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created or Updated_1.current","label":"Trigger➛Loaner Request Record","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"10a39438-469c-4d4d-babc-42cf3bf118c0.Record","label":"5➛Loaner Request Record","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"10a39438-469c-4d4d-babc-42cf3bf118c0.Table","label":"5➛Loaner Request Table","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"table_name","base_type":"table_name"},{"name":"6c5097ed-32bc-4571-8551-e57c1f73718f.Record","label":"2➛Loaner Request Record","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"6c5097ed-32bc-4571-8551-e57c1f73718f.Table","label":"2➛Loaner Request Table","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"table_name","base_type":"table_name"},{"name":"e25ce34b-6a5c-4dea-ac74-ee6ac48aa175.record","label":"6➛Loaner Request Record","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"e25ce34b-6a5c-4dea-ac74-ee6ac48aa175.table_name","label":"6➛Loaner Request Table","reference":"x_cdltd_loaner_req_loaner_request","reference_display":"Loaner Request","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>69cabc21483963007f44fc5abca5fdcf</latest_snapshot>
+        <master_snapshot>c7e6b86d48f563007f44fc5abca5fd14</master_snapshot>
+        <name>Loaner Laptop</name>
+        <outputs/>
+        <remote_trigger_id>67e6b86d48f563007f44fc5abca5fdaa</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 14:01:09</sys_created_on>
+        <sys_id>ac53742d48f563007f44fc5abca5fddb</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Loaner Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bf2a9ff048bd23007f44fc5abca5fd7c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bf2a9ff048bd23007f44fc5abca5fd7c</sys_scope>
+        <sys_update_name>sys_hub_flow_ac53742d48f563007f44fc5abca5fddb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 14:57:26</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac53742d48f563007f44fc5abca5fddb"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ac53742d48f563007f44fc5abca5fddb"/>
+</record_update>
